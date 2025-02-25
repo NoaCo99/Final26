@@ -1,0 +1,288 @@
+﻿<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Ally- Let's chat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta name="author" content=""/>
+
+    <!-- CSS -->
+    <link href="./css/bootstrap.rtl.min.css" rel="stylesheet"/>
+    <link href="css/openai.css" rel="stylesheet"/>
+
+    <!-- Scripts -->
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/javascript_openai.js"></script>
+</head>
+<body class="bg-light">
+<!-- Navigation structure -->
+<div class="mobile-nav">
+    <button class="mobile-toggle">
+        <span class="plus-icon">+</span>
+        <span class="tool-name">Ally</span>
+    </button>
+</div>
+
+<div class="nav-overlay"></div>
+
+<nav class="sidebar">
+    <!-- Navigation Controls -->
+    <div class="nav-controls">
+        <div class="buttons-container">
+            <button class="minimize-btn">
+                <span class="minimize-icon">−</span>
+            </button>
+            <button class="expand-btn">
+                <span class="expand-icon">+</span>
+            </button>
+        </div>
+        <h2 class="sidebar-title">Ally</h2>
+    </div>
+
+    <!-- Navigation Content -->
+    <div class="nav-content">
+
+        <!-- New Chat Button -->
+        <button class="new-chat-btn">
+            <span>+</span>
+            New Chat
+        </button>
+
+        <!-- Chat List -->
+        <div class="chat-list">
+            <div class="chat-item">
+                <img src="./img/ChatText.png" alt="chat" class="chat-icon">
+                Questions about the IDF
+            </div>
+            <div class="chat-item">
+                <img src="./img/ChatText.png" alt="chat" class="chat-icon">
+                Guide for Aliyah
+            </div>
+        </div>
+
+        <!-- Footer Settings -->
+        <div class="sidebar-footer">
+            <div class="setting-item">
+                <img src="img/Trash.png" class="setting-icon"/>
+                Delete Conversations
+            </div>
+            <div class="setting-item">
+                <img src="img/Acount.png" class="setting-icon"/>
+                My Account
+            </div>
+            <div class="setting-item">
+                <img src="img/LogOut.png" class="setting-icon"/>
+                Log Out
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+<div class="cactus-bubble">
+    <!-- 🟢 תמונת הקקטוס -->
+    <img src="img/cactus.png" alt="Cactus Image" class="cactus-image"/>
+
+    <!-- 🔵 עיגול שמפעיל את התיבה -->
+    <img src="img/circleInfo.png" alt="Trigger Icon" class="info-trigger"/>
+
+    <!-- 🟡 תיבת המידע שתופיע בהובר -->
+    <div class="info-box">
+        <div class="info-box-header">
+            <div class="info-section">
+                <img src="img/Chats.png">
+                <span>Examples</span>
+            </div>
+            <div class="info-section">
+                <img src="img/Capabilities.png">
+                <span>Capabilities</span>
+            </div>
+            <div class="info-section">
+                <img src="img/Limit.png">
+                <span>Limitations</span>
+            </div>
+        </div>
+
+        <div class="info-box-content">
+            <div class="info-item">"What documents do I need for Aliyah?"</div>
+            <div class="info-item">Provides personalized guidance for Aliyah</div>
+            <div class="info-item">Cannot submit official requests</div>
+
+            <div class="info-item">"How do I enroll my children in school?"</div>
+            <div class="info-item">Responds in your preferred language</div>
+            <div class="info-item">Information may be outdated</div>
+
+            <div class="info-item">"What benefits do I receive?"</div>
+            <div class="info-item">Explains the process according to your situation</div>
+            <div class="info-item">Does not replace official consultation</div>
+        </div>
+    </div>
+</div>
+
+
+<div class="rightBTNS">
+    <div class="date-picker-wrapper">
+        <button id="dateBtn" class="date-button" onclick="openDatePicker()">Select your immigration date to Israel</button>
+        <input type="date" id="datePicker" onchange="updateDate(this.value)">
+    </div>
+
+    <div class="translation-widget">
+        <div class="widget-container">
+            <div class="translation-header">
+                <h2 class="translation-title">Common Words: English-Hebrew</h2>
+            </div>
+
+            <div class="translation-content">
+                <div class="words-list">
+                    <!-- יתמלא דינמית -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="fact-widget minimized">
+        <div class="fact-container">
+            <div class="fact-header">
+                <h2 class="fact-title">Did you know that…?</h2>
+            </div>
+            <div class="fact-content">
+                <p class="fact-text"></p>
+                <img class="fact-image" alt="Israel fact illustration"/>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+<div class="container py-3">
+    <div class="process-section">
+        <div class="process-card">
+            <div class="process-header" onclick="toggleProcessDetails()">
+                <h3 class="process-title" id="currentStage">You are in Stage 4 of the Aliyah Process</h3>
+                <p class="update-prompt">Click here to update your stage in the process</p>
+            </div>
+            <div class="process-details" id="processDetails">
+                <ul class="process-steps">
+                    <li class="step-item">
+                        <input type="radio" name="stage" id="stage1" value="1" onchange="updateCurrentStage(this.value)">
+                        <label for="stage1" class="circle-all">
+                            <span class="circle">1</span> <!-- מספר השלב בתוך העיגול -->
+                            <span class="circle-step">
+                                <span class="step-title">Preliminary Research and Decision-Making</span>
+                                <span class="step-description">Learn about the culture, customs, and economics of Israel.</span>
+                            </span>
+                        </label>
+                    </li>
+                    <li class="step-item">
+                        <input type="radio" name="stage" id="stage2" value="2" onchange="updateCurrentStage(this.value)">
+                        <label for="stage2" class="circle-all">
+                            <span class="circle">2</span> <!-- מספר השלב בתוך העיגול -->
+                            <span class="circle-step">
+                                <span class="step-title">Eligibility Verification and Aliyah Planning</span>
+                                <span class="step-description">Official verification of eligibility and planning for Aliyah through immigrant organizations or the Jewish Agency.</span>
+                            </span>
+                        </label>
+                    </li>
+                    <li class="step-item">
+                        <input type="radio" name="stage" id="stage3" value="3" onchange="updateCurrentStage(this.value)">
+                        <label for="stage3" class="circle-all">
+                            <span class="circle">3</span> <!-- מספר השלב בתוך העיגול -->
+                            <span class="circle-step">
+                                <span class="step-title">Submitting Your Official Aliyah Application</span>
+                                <span class="step-description">Complete the forms and documents relevant to your immigration needs.</span>
+                            </span>
+                        </label>
+                    </li>
+                    <li class="step-item">
+                        <input type="radio" name="stage" id="stage4" value="4" onchange="updateCurrentStage(this.value)">
+                        <label for="stage4" class="circle-all">
+                            <span class="circle">4</span> <!-- מספר השלב בתוך העיגול -->
+                            <span class="circle-step">
+                                <span class="step-title">Logistical Preparations Before the Move</span>
+                                <span class="step-description">Prepare logistics and ensure travel tickets and reservations are ready for your move to Israel.</span>
+                            </span>
+                        </label>
+                    </li>
+                    <li class="step-item">
+                        <input type="radio" name="stage" id="stage5" value="5" onchange="updateCurrentStage(this.value)">
+                        <label for="stage5" class="circle-all">
+                            <span class="circle">5</span> <!-- מספר השלב בתוך העיגול -->
+                            <span class="circle-step">
+                                <span class="step-title">Arrival in Israel and Absorption Package</span>
+                                <span class="step-description">Receive an absorption package including benefits and guidance for living and settling in Israel.</span>
+                            </span>
+                        </label>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <button class="toggle-rectangle" onclick="toggleProcessDetails()"></button>
+    </div>
+
+
+    <!-- Rest of your page content goes here, e.g., the chat interface -->
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <!-- Chat Messages -->
+            <div id="chat-container" class="chat-container mb-5">
+                <div id="welcome-message" class="text-center mb-4">
+                    <h1 class="welcome-title">
+                        <span class="primary-language"></span>
+                        <br>
+                        <span class="secondary-language" dir="rtl">שלום, </span>
+                    </h1>
+                    <p class="welcome-subtitle"></p>
+                </div>
+
+                <div id="suggested-questions"
+                     class="suggested-questions-container mb-3 d-flex flex-column flex-md-row align-items-stretch justify-content-center gap-2">
+                    <button id="question1" class="suggested-question btn btn-outline-primary"
+                            onclick="handleSuggestedQuestion(this)"></button>
+                    <button id="question2" class="suggested-question btn btn-outline-primary"
+                            onclick="handleSuggestedQuestion(this)"></button>
+                    <button id="question3" class="suggested-question btn btn-outline-primary"
+                            onclick="handleSuggestedQuestion(this)"></button>
+                </div>
+
+                <!-- Messages will be inserted here -->
+                <div id="loading" class="text-center d-none">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">טוען...</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Input Container -->
+    <div class="input-container">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="input-group shadow-sm rounded-pill bg-white overflow-hidden">
+                        <textarea id="question" class="form-control border-0 rounded-pill"
+                                  placeholder="Type your question here..." rows="1" style="resize: none;"></textarea>
+                        <button onclick="getQuestion()" class="btn" style="border: none;">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                 fill="none"
+                                 stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                 stroke-linejoin="round">
+                                <path d="M22 2L11 13"></path>
+                                <path d="M22 2L15 22L11 13L2 9L22 2z"></path>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

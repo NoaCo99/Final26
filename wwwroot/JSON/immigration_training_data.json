@@ -1,0 +1,2702 @@
+[
+  {
+    "ID": "281",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "280",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "85",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "140",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "178",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "144",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "2",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "174",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "91",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "10",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "154",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "123",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "47",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "156",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "48",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "233",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "41",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "137",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "64",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "135",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "290",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "274",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "37",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "264",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "271",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "260",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "38",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "124",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "267",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "125",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "218",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "275",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "149",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "128",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "56",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "179",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "242",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "183",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "283",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "153",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "130",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "282",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "288",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "139",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "147",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "9",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "32",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "146",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "173",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "73",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "161",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "26",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "219",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "196",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "116",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "33",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "190",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "268",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "195",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "72",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "261",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "131",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "199",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "266",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "36",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "104",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "81",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "222",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "235",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "34",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "240",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "28",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "265",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "92",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "78",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "18",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "7",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "76",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "186",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "42",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "248",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "167",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "101",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "122",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "68",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "142",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "269",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "232",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "194",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "239",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "102",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "247",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "213",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "217",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "243",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "226",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "221",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "162",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "273",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "237",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "246",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "21",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "175",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "168",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "113",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "15",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "133",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "172",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "231",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "177",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "5",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "227",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "184",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "244",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "201",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "17",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "117",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "127",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "23",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "182",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "297",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "126",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "39",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "166",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "120",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "160",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "287",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "40",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "262",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "250",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "296",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "89",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "285",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "295",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "20",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "189",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "46",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "60",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "220",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "75",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "136",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "55",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "229",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "109",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "150",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "188",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "286",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "258",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "289",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "191",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "198",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "99",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "77",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "70",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "159",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "152",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "95",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "228",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "14",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "62",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "253",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "208",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "138",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "180",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "230",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "263",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "157",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "141",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "259",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "97",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "58",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "82",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "93",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "234",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "110",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "292",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "238",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "251",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "112",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "79",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "98",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "245",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "121",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "291",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "143",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "4",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "145",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "13",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "52",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "202",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "255",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "276",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "257",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "204",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "30",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "151",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "298",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "223",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "19",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "185",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "22",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "114",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "197",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "63",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "111",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "43",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "8",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "252",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "29",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "80",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "1",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "211",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "203",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "107",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "71",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "11",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "293",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "94",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "119",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "171",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "100",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "224",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "132",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "51",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "209",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "299",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "277",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "67",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "169",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "103",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "12",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "200",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "31",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "155",
+    "Q1": 2,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "86",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "24",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "192",
+    "Q1": 2,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "270",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "87",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "176",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "241",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "74",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "66",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "44",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "249",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "236",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "57",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "105",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "115",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "25",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "284",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "59",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "210",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "6",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "53",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "148",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "256",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "215",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "90",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "45",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "205",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "106",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "212",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "181",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "69",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "214",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "108",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "193",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "278",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "254",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "61",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "216",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "163",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "65",
+    "Q1": 1,
+    "Q2": 5,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "16",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "164",
+    "Q1": 2,
+    "Q2": 1,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "50",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "35",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "207",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "49",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "165",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "84",
+    "Q1": 3,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "27",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "3",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "206",
+    "Q1": 3,
+    "Q2": 5,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "88",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "134",
+    "Q1": 1,
+    "Q2": 3,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "170",
+    "Q1": 3,
+    "Q2": 3,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "300",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "294",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "279",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "225",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "118",
+    "Q1": 2,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "158",
+    "Q1": 3,
+    "Q2": 2,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "83",
+    "Q1": 1,
+    "Q2": 4,
+    "Q3": 1,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "129",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "96",
+    "Q1": 3,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "No Chance"
+  },
+  {
+    "ID": "272",
+    "Q1": 2,
+    "Q2": 4,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 2,
+    "aliyahChances": "High Chance"
+  },
+  {
+    "ID": "54",
+    "Q1": 1,
+    "Q2": 1,
+    "Q3": 1,
+    "Q4": 2,
+    "Q5": 2,
+    "aliyahChances": "Low Chance"
+  },
+  {
+    "ID": "187",
+    "Q1": 1,
+    "Q2": 2,
+    "Q3": 2,
+    "Q4": 1,
+    "Q5": 1,
+    "aliyahChances": "No Chance"
+  }
+]
